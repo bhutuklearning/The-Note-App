@@ -1,6 +1,9 @@
 # The Note App
 
-A full-stack Notes application with a rich text editor, allowing users to create, read, update, and delete notes with formatting options. The backend is built with Express.js and MongoDB, while the frontend is planned for future development.
+A full-stack Notes application with a rich text editor, allowing users to create, read, update, and delete notes with formatting options. The backend is built with Express.js and MongoDB, while the frontend is planned for future development. This is the first project of the **backend serires** which I started on LinkedIn and Twitter to upskill myself and also for the purpose of learn and build in public. The postman collection is also uploaded to show the proofs of testing the API endpoints. Connect with me on:
+- **LinkedIn:** [Amritanshu Goutam](https://www.linkedin.com/in/amritanshu-goutam-015bab248/)
+- **X(Twitter):** [Amritanshutwt](https://x.com/Amritanshutwt)
+
 
 ## 🚀 Features
 
@@ -10,7 +13,7 @@ A full-stack Notes application with a rich text editor, allowing users to create
 - **Engagement**: Like/dislike notes functionality
 - **Search Capability**: Search notes by title and author
 - **Security**: Sanitized HTML content to prevent XSS attacks
-- **User Attribution**: Associate notes with creators and their social links
+- **User Attribution**: Associate notes with creators namre and their social links.
 - **Responsive API**: RESTful API design for easy integration
 
 ## 🛠️ Technologies Used
@@ -20,7 +23,7 @@ A full-stack Notes application with a rich text editor, allowing users to create
 - **Node.js**: JavaScript runtime environment
 - **Express.js**: Web application framework
 - **MongoDB**: NoSQL database
-- **Mongoose**: MongoDB object modeling
+- **Mongoose**: MongoDB object modeling or ODM.
 - **Sanitize-HTML**: Security middleware to prevent XSS attacks
 - **Dotenv**: Environment variable management
 
@@ -42,8 +45,8 @@ A full-stack Notes application with a rich text editor, allowing users to create
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/bhutuklearning/notes-app.git
-   cd backend
+   git clone https://github.com/bhutuklearning/The-Note-App.git
+   cd The-Note-App
    ```
 
 2. Install dependencies
@@ -222,3 +225,9 @@ Made with ❤️ by Amritanshu Goutam
 ```
 
 This comprehensive README.md includes all the information from my previous answer, with additional details about API endpoints, request/response examples, project structure, and testing instructions.
+
+## 👤 Contact
+
+- **Author:** [Amritanshu Goutam](https://github.com/bhutuklearning)
+- **LinkedIn:** [Amritanshu Goutam](https://www.linkedin.com/in/amritanshu-goutam-015bab248/)
+- **Email:** amritanshugoutam@gmail.com
