@@ -212,14 +212,6 @@ A Postman collection is included in the repository for easy API testing:
 - **Authentication & Authorization**:
   - Add user registration and login
   - Implement JWT authentication
-  - Add role-based access control
-
-
-## 📧 Contact
-
-For any questions or suggestions, please open an issue in the repository.
-
----
 
 Made with ❤️ by Amritanshu Goutam
 ```
