@@ -1,6 +1,6 @@
 # The Note App
 
-A full-stack Notes application with a rich text editor, allowing users to create, read, update, and delete notes with formatting options. The backend is built with Express.js and MongoDB, while the frontend is planned for future development. This is the first project of the **backend diaries** which I started on LinkedIn and Twitter to upskill myself and also for the purpose of learn and build in public. The postman collection is also uploaded to show the proofs of testing the API endpoints. Connect with me on:
+A full-stack Notes application with a rich text editor, allowing users to create, read, update, and delete notes with formatting options. The backend is built with Express.js and MongoDB, while the frontend is planned for future development. This is the first project of the **backend diaries** which I started on LinkedIn and Twitter to upskill myself and also for the purpose of learn and build in public. The postman collection is also uploaded to show the proofs of testing the API endpoints. The postman collection file of the AWS Deployed Backend is also uploaded to show the testing of API endpoints of the respective backend when it is deployed on AWS. Connect with me on:
 - **LinkedIn:** [Amritanshu Goutam](https://www.linkedin.com/in/amritanshu-goutam-015bab248/)
 - **X(Twitter):** [Amritanshutwt](https://x.com/Amritanshutwt)
 
